@@ -3,4 +3,11 @@
 Hello everyone,
 
 I will be using this platform to consolidate my works
-My interests are, MS Excel, VBA (MS Excel, MS Access), Oracle SQL, Oracle PL/SQL, Python, some bash scripts (I'm using Linux) and lately RPA
+My interests are;
+* Spreadsheets (MS Excel, MS Access, Google Sheets)
+* VBA (MS Excel, MS Access)
+* SQL (Oracle, Microsoft SQL)
+* PL/SQL (Oracle)
+* Python
+* Bash scripts (I'm using Linux)
+* RPA (lately)
